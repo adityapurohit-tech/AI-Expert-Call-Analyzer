@@ -1,4 +1,4 @@
-# Expert Call Analyzer — Hasamex AI Engineer Case Study
+# Expert Call Analyzer — Case Study
 
 A small application that analyses 3 expert-call transcripts (robotic surgery adoption in France, Germany, and the UK), answers a structured interview guide with citations, identifies cross-expert themes and disagreements, and supports free-form Q&A — all grounded strictly in the source transcripts.
 
